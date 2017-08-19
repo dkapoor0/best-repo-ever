@@ -1,0 +1,17 @@
+{
+    "projectName": "nfpdevorg",
+    "username": "deepak.vistaar2@nfp.com",
+    "id": "18346de0-84ac-11e7-9e10-99e66e6faba0",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://deepakkapoorlabs-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\dkapoor0\\best-repo-ever\\",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
