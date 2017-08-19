@@ -1,1 +1,16 @@
-{}
+{
+    "ChangePasswordController.cls": {
+        "createdById": "00536000000l6urAAA",
+        "createdByName": "Deepak Kapoorreal",
+        "createdDate": "2016-02-03T18:58:20.000Z",
+        "fileName": "unpackaged/classes/ChangePasswordController.cls",
+        "fullName": "ChangePasswordController",
+        "id": "01p36000002OOL3AAO",
+        "lastModifiedById": "00536000000l6urAAA",
+        "lastModifiedByName": "Deepak Kapoorreal",
+        "lastModifiedDate": "2016-02-03T18:58:20.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
